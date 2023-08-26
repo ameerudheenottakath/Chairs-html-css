@@ -1,2 +1,3 @@
 ﻿# Chairs website-html-css
-<img src="screenshot (11)" alt="">
+
+![Uploading screenshot (11).png…]()
